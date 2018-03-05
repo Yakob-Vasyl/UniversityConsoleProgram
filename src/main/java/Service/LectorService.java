@@ -1,7 +1,7 @@
 package Service;
 
 import Entity.Lector;
-import dao.LectorDao;
+import Dao.LectorDao;
 
 import java.util.stream.Collectors;
 

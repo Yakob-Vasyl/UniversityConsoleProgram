@@ -2,7 +2,7 @@ package Service;
 
 import Entity.Degree;
 import Entity.Lector;
-import dao.DepartmentDao;
+import Dao.DepartmentDao;
 
 import java.util.List;
 import java.util.stream.Collectors;
